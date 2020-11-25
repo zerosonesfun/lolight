@@ -20,7 +20,7 @@ return [
         ->configure(function (Configurator $config) {
             $config->BBCodes->addCustom(
                 '[syntax]{TEXT}[/syntax]',
-                '<pre class="lolight">{TEXT}</pre>'
+                '<div class="lolight">{TEXT}</div>'
             );
         })
 ];
