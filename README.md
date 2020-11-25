@@ -29,6 +29,19 @@ If you want to tweak the style, here's the CSS code you may use (add to Flarum's
 }
 ~~~
 
+## Install
+
+`composer require zerosonesfun/lolight`
+
+## Update
+
+`composer update zerosonesfun/lolight`
+
+## Remove
+
+`composer remove zerosonesfun/lolight`
+And, if removing permanently, remove the leftover folder that was added to your public assets folder.
+
 ## Links
 - [**Github**](https://github.com/zerosonesfun/lolight)
 - [**Me**](https://www.wilcosky.com)
