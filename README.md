@@ -30,6 +30,6 @@ If you want to tweak the style, here's the CSS code you may use (add to Flarum's
 ~~~
 
 ## Links
-- [**Github**]()
+- [**Github**](https://github.com/zerosonesfun/lolight)
 - [**Me**](https://www.wilcosky.com)
 
