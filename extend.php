@@ -14,7 +14,7 @@ use s9e\TextFormatter\Configurator;
 return [
     (new Extend\Frontend('forum'))
         ->content(function (Document $document) {
-            $document->head[] = '<link rel="stylesheet" type="text/css" href="/assets/extensions/zerosonesfun-chords/styles.css">';
+            $document->foot[] = '<script src="../assets/extensions/zerosonesfun-lolight/lolight-1.4.0.min.js"></script>';
         }),
     (new Extend\Formatter)
         ->configure(function (Configurator $config) {
