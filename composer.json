@@ -1,6 +1,7 @@
 {
     "name": "zerosonesfun/lolight",
     "description": "Syntax highlighting alternative",
+    "license": "MIT",
     "authors": [
         {
             "name": "Billy Wilcosky",
